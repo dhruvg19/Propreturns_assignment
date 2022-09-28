@@ -1,0 +1,1008 @@
+1664301596054	geckodriver	INFO	Listening on 127.0.0.1:59076
+1664301599111	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59077" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileWFzGhE"
+1664301599682	Marionette	INFO	Marionette enabled
+1664301599688	Marionette	INFO	Listening on port 59090
+Read port: 59090
+WebDriver BiDi listening on ws://127.0.0.1:59077
+1664301599863	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileWFzGhE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59077/devtools/browser/6e47676b-6f17-4a1c-bc1e-9b4d6dd13637
+1664301606656	Marionette	INFO	Stopped listening on port 59090
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664301808977	geckodriver	INFO	Listening on 127.0.0.1:59225
+1664301812015	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59226" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofile8OQuVI"
+1664301812361	Marionette	INFO	Marionette enabled
+1664301812365	Marionette	INFO	Listening on port 59238
+WebDriver BiDi listening on ws://127.0.0.1:59226
+Read port: 59238
+1664301812588	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofile8OQuVI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59226/devtools/browser/5131fe4f-d098-4929-a8a0-e1bd66cd3180
+1664301820062	Marionette	INFO	Stopped listening on port 59238
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664301977662	geckodriver	INFO	Listening on 127.0.0.1:59350
+1664301980712	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59351" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileAUJcPu"
+1664301981051	Marionette	INFO	Marionette enabled
+1664301981055	Marionette	INFO	Listening on port 59364
+WebDriver BiDi listening on ws://127.0.0.1:59351
+Read port: 59364
+1664301981200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileAUJcPu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59351/devtools/browser/799a44c4-c649-49e2-8f80-78d5e94d660a
+1664301990999	Marionette	INFO	Stopped listening on port 59364
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664303239303	geckodriver	INFO	Listening on 127.0.0.1:60065
+1664303242398	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60066" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileZ7QPlS"
+1664303243033	Marionette	INFO	Marionette enabled
+1664303243043	Marionette	INFO	Listening on port 60078
+Read port: 60078
+WebDriver BiDi listening on ws://127.0.0.1:60066
+1664303243481	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileZ7QPlS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60066/devtools/browser/305cb68d-2ff5-48ce-a7e7-4203f6413fa9
+1664303969344	Marionette	INFO	Stopped listening on port 60078
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60386" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofile7flZFj"
+1664303737409	Marionette	INFO	Marionette enabled
+1664303737413	Marionette	INFO	Listening on port 60398
+Read port: 60398
+WebDriver BiDi listening on ws://127.0.0.1:60386
+1664303737560	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofile7flZFj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60386/devtools/browser/3c37fb15-8a7d-47e2-8d27-cc525d654477
+1664303966775	Marionette	INFO	Stopped listening on port 60398
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60464" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilesgAGR3"
+1664303804401	Marionette	INFO	Marionette enabled
+1664303804407	Marionette	INFO	Listening on port 60477
+Read port: 60477
+WebDriver BiDi listening on ws://127.0.0.1:60464
+1664303804547	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilesgAGR3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60464/devtools/browser/51a93f99-5240-4861-b86a-3adfadbc8d45
+1664303812594	Marionette	INFO	Stopped listening on port 60477
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664303938886	geckodriver	INFO	Listening on 127.0.0.1:60606
+1664303941899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60607" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofile1ye0Qr"
+1664303942233	Marionette	INFO	Marionette enabled
+1664303942237	Marionette	INFO	Listening on port 60620
+WebDriver BiDi listening on ws://127.0.0.1:60607
+Read port: 60620
+1664303942464	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofile1ye0Qr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60607/devtools/browser/f63fb420-55ce-409c-96e8-0a261c350cc1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664303968271	Marionette	INFO	Stopped listening on port 60620
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664303976894	geckodriver	INFO	Listening on 127.0.0.1:60675
+1664303979910	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60676" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileZAYTG5"
+1664303980321	Marionette	INFO	Marionette enabled
+1664303980324	Marionette	INFO	Listening on port 60689
+Read port: 60689
+WebDriver BiDi listening on ws://127.0.0.1:60676
+1664303980464	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileZAYTG5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60676/devtools/browser/8ececdef-6188-4c51-aa6b-8a8925403a4a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664303999635	Marionette	INFO	Stopped listening on port 60689
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664305708768	geckodriver	INFO	Listening on 127.0.0.1:61451
+1664305711824	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61452" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileVuOffO"
+1664305712170	Marionette	INFO	Marionette enabled
+1664305712173	Marionette	INFO	Listening on port 61461
+Read port: 61461
+WebDriver BiDi listening on ws://127.0.0.1:61452
+1664305712337	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileVuOffO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61452/devtools/browser/8ce9864b-3cc3-462e-8b7f-5d384c4cd460
+1664305822289	Marionette	INFO	Stopped listening on port 61461
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "61595" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilewVxGce"
+1664305780301	Marionette	INFO	Marionette enabled
+1664305780305	Marionette	INFO	Listening on port 61605
+WebDriver BiDi listening on ws://127.0.0.1:61595
+Read port: 61605
+1664305780660	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilewVxGce\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61595/devtools/browser/3a476e60-a551-41f1-98cd-3c6c223d479c
+1664305789163	Marionette	INFO	Stopped listening on port 61605
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664305805406	geckodriver	INFO	Listening on 127.0.0.1:61650
+1664305808423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61651" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileCFv4Ws"
+1664305808857	Marionette	INFO	Marionette enabled
+1664305808861	Marionette	INFO	Listening on port 61661
+Read port: 61661
+WebDriver BiDi listening on ws://127.0.0.1:61651
+1664305809005	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileCFv4Ws\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61651/devtools/browser/43c5557c-68eb-4918-b445-81b5fd97ec7b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664305825210	Marionette	INFO	Stopped listening on port 61661
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664305911687	geckodriver	INFO	Listening on 127.0.0.1:61768
+1664305914730	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61769" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileHR5yix"
+1664305915059	Marionette	INFO	Marionette enabled
+1664305915063	Marionette	INFO	Listening on port 61780
+Read port: 61780
+WebDriver BiDi listening on ws://127.0.0.1:61769
+1664305915220	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileHR5yix\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61769/devtools/browser/2cee4198-faee-4833-9926-191a4c6999df
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664305922568	Marionette	INFO	Stopped listening on port 61780
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664306269433	geckodriver	INFO	Listening on 127.0.0.1:61946
+1664306272492	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61947" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileRppYx2"
+1664306272833	Marionette	INFO	Marionette enabled
+1664306272837	Marionette	INFO	Listening on port 61957
+WebDriver BiDi listening on ws://127.0.0.1:61947
+Read port: 61957
+1664306273195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileRppYx2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61947/devtools/browser/8ddb7638-b047-4e7c-ac41-d1109869e15d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664306288668	Marionette	INFO	Stopped listening on port 61957
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664306323834	geckodriver	INFO	Listening on 127.0.0.1:62014
+1664306326888	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62015" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilekBdO9A"
+1664306327214	Marionette	INFO	Marionette enabled
+1664306327219	Marionette	INFO	Listening on port 62025
+WebDriver BiDi listening on ws://127.0.0.1:62015
+Read port: 62025
+1664306327569	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilekBdO9A\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62015/devtools/browser/951cb2ca-5921-4c43-bfe1-a0c147623ec4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664307300422	Marionette	INFO	Stopped listening on port 62025
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62182" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileqs6vue"
+1664306541670	Marionette	INFO	Marionette enabled
+1664306541674	Marionette	INFO	Listening on port 62193
+WebDriver BiDi listening on ws://127.0.0.1:62182
+Read port: 62193
+1664306541905	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileqs6vue\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62182/devtools/browser/d98e4524-40dc-4ded-bab6-f324738772fc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664307301699	Marionette	INFO	Stopped listening on port 62193
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664307311701	geckodriver	INFO	Listening on 127.0.0.1:62620
+1664307314732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62621" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileHi1ICS"
+1664307315136	Marionette	INFO	Marionette enabled
+1664307315140	Marionette	INFO	Listening on port 62631
+Read port: 62631
+WebDriver BiDi listening on ws://127.0.0.1:62621
+1664307315268	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileHi1ICS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62621/devtools/browser/87a9a90d-06ab-46fa-9358-90f349c982ab
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664307355986	Marionette	INFO	Stopped listening on port 62631
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664307358478	geckodriver	INFO	Listening on 127.0.0.1:62686
+1664307361509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62687" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofile3KERhR"
+1664307361867	Marionette	INFO	Marionette enabled
+1664307361871	Marionette	INFO	Listening on port 62698
+Read port: 62698
+WebDriver BiDi listening on ws://127.0.0.1:62687
+1664307362002	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofile3KERhR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62687/devtools/browser/589c166d-f2cf-4459-8285-eb469c8e4e8d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664307371995	Marionette	INFO	Stopped listening on port 62698
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664307473165	geckodriver	INFO	Listening on 127.0.0.1:60920
+1664307476194	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60921" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofile9obrkt"
+1664307476558	Marionette	INFO	Marionette enabled
+1664307476562	Marionette	INFO	Listening on port 60931
+Read port: 60931
+WebDriver BiDi listening on ws://127.0.0.1:60921
+1664307476707	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofile9obrkt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60921/devtools/browser/230d582a-01c3-4dbd-9837-da2921af588f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664307918670	Marionette	INFO	Stopped listening on port 60931
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "61107" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileJeMvrU"
+1664307718495	Marionette	INFO	Marionette enabled
+1664307718502	Marionette	INFO	Listening on port 61118
+Read port: 61118
+WebDriver BiDi listening on ws://127.0.0.1:61107
+1664307718633	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileJeMvrU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61107/devtools/browser/25f7849c-d50c-4b7e-a2d6-6a5dffefb01f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664307919765	Marionette	INFO	Stopped listening on port 61118
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "61165" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilefb7s8m"
+1664307754865	Marionette	INFO	Marionette enabled
+1664307754868	Marionette	INFO	Listening on port 61176
+WebDriver BiDi listening on ws://127.0.0.1:61165
+Read port: 61176
+1664307755236	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilefb7s8m\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61165/devtools/browser/b83756e9-7ef6-48f4-bd7b-35df94ab7c06
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664307920887	Marionette	INFO	Stopped listening on port 61176
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664309250363	geckodriver	INFO	Listening on 127.0.0.1:62056
+1664309253407	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62057" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileoQ5Ya0"
+1664309253823	Marionette	INFO	Marionette enabled
+1664309253826	Marionette	INFO	Listening on port 62068
+Read port: 62068
+WebDriver BiDi listening on ws://127.0.0.1:62057
+1664309253959	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileoQ5Ya0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62057/devtools/browser/986e2457-e472-478a-b5d8-030b87e0b526
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+JavaScript error: https://esearch.delhigovt.nic.in/bootstrap/VANI/chatbot.js, line 81: TypeError: input is null
+1664309305673	Marionette	INFO	Stopped listening on port 62068
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664309309066	geckodriver	INFO	Listening on 127.0.0.1:62137
+1664309312103	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62138" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilehLtlKT"
+1664309312441	Marionette	INFO	Marionette enabled
+1664309312444	Marionette	INFO	Listening on port 62148
+Read port: 62148
+WebDriver BiDi listening on ws://127.0.0.1:62138
+1664309312609	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilehLtlKT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62138/devtools/browser/db336710-c9d8-48b7-ab48-e66f699680c8
+1664310191202	Marionette	INFO	Stopped listening on port 62148
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664310205959	geckodriver	INFO	Listening on 127.0.0.1:62710
+1664310209004	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62711" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileK6YdMJ"
+1664310209345	Marionette	INFO	Marionette enabled
+1664310209349	Marionette	INFO	Listening on port 62722
+WebDriver BiDi listening on ws://127.0.0.1:62711
+Read port: 62722
+1664310209502	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileK6YdMJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62711/devtools/browser/142bf09c-2a4a-42f6-809f-bbb01477fbeb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664310234731	Marionette	INFO	Stopped listening on port 62722
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664310239538	geckodriver	INFO	Listening on 127.0.0.1:62769
+1664310242572	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62770" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileNNXXV2"
+1664310242911	Marionette	INFO	Marionette enabled
+1664310242914	Marionette	INFO	Listening on port 62781
+Read port: 62781
+WebDriver BiDi listening on ws://127.0.0.1:62770
+1664310243063	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileNNXXV2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62770/devtools/browser/6c1329fc-7cfa-4cbb-8d88-d504a393a8eb
+1664310255717	Marionette	INFO	Stopped listening on port 62781
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664310265322	geckodriver	INFO	Listening on 127.0.0.1:62824
+1664310268351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62825" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofiley0vz49"
+1664310268694	Marionette	INFO	Marionette enabled
+1664310268698	Marionette	INFO	Listening on port 62835
+Read port: 62835
+WebDriver BiDi listening on ws://127.0.0.1:62825
+1664310268846	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofiley0vz49\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62825/devtools/browser/f86c8a6f-30c9-49a7-af98-e1681ffd4254
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664310287673	Marionette	INFO	Stopped listening on port 62835
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664312404218	geckodriver	INFO	Listening on 127.0.0.1:57839
+1664312407253	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57840" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileBGHHRT"
+1664312407681	Marionette	INFO	Marionette enabled
+1664312407685	Marionette	INFO	Listening on port 57852
+Read port: 57852
+WebDriver BiDi listening on ws://127.0.0.1:57840
+1664312407814	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileBGHHRT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57840/devtools/browser/dbd44156-3046-4f80-9472-d168beb9ac08
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1664312883348	Marionette	INFO	Stopped listening on port 57852
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664315823670	geckodriver	INFO	Listening on 127.0.0.1:59774
+1664315826728	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59775" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileTcfXfO"
+1664315827296	Marionette	INFO	Marionette enabled
+1664315827302	Marionette	INFO	Listening on port 59785
+Read port: 59785
+WebDriver BiDi listening on ws://127.0.0.1:59775
+1664315827486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileTcfXfO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59775/devtools/browser/e24046da-74f3-40ac-9014-8416de9b7fa8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664320782063	Marionette	INFO	Stopped listening on port 59785
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "59883" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileh4gP5V"
+1664315955534	Marionette	INFO	Marionette enabled
+1664315955538	Marionette	INFO	Listening on port 59894
+Read port: 59894
+WebDriver BiDi listening on ws://127.0.0.1:59883
+1664315955692	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileh4gP5V\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59883/devtools/browser/2846110d-3bee-4a0b-b574-c611235a5716
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664320783188	Marionette	INFO	Stopped listening on port 59894
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 20068, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1664320955670	geckodriver	INFO	Listening on 127.0.0.1:62437
+1664320958709	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62438" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileK5bSb0"
+1664320959142	Marionette	INFO	Marionette enabled
+1664320959146	Marionette	INFO	Listening on port 62449
+Read port: 62449
+WebDriver BiDi listening on ws://127.0.0.1:62438
+1664320959275	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileK5bSb0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62438/devtools/browser/eb1c68e2-19a8-4f93-913f-afe63209a8cd
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+t 62541
+Read port: 62541
+WebDriver BiDi listening on ws://127.0.0.1:62531
+1664321061388	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileU8hqmc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62531/devtools/browser/eb0d3b48-1919-444a-9bf0-8c32a090ad11
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664321218746	Marionette	INFO	Stopped listening on port 62541
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62614" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileJkpra0"
+1664321134145	Marionette	INFO	Marionette enabled
+1664321134149	Marionette	INFO	Listening on port 62624
+WebDriver BiDi listening on ws://127.0.0.1:62614
+Read port: 62624
+1664321134509	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileJkpra0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62614/devtools/browser/81990f6e-6d66-43c4-a789-b962bcfafa17
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664321217662	Marionette	INFO	Stopped listening on port 62624
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664323038801	geckodriver	INFO	Listening on 127.0.0.1:56211
+1664323041829	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56212" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilehWXCZ5"
+1664323042188	Marionette	INFO	Marionette enabled
+1664323042192	Marionette	INFO	Listening on port 56224
+Read port: 56224
+WebDriver BiDi listening on ws://127.0.0.1:56212
+1664323042320	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilehWXCZ5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56212/devtools/browser/55c4c44d-64b4-4ed1-b2c6-64a584cadc02
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664323191288	Marionette	INFO	Stopped listening on port 56224
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56313" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileNuu4t3"
+1664323150982	Marionette	INFO	Marionette enabled
+1664323150986	Marionette	INFO	Listening on port 56326
+Read port: 56326
+WebDriver BiDi listening on ws://127.0.0.1:56313
+1664323151109	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileNuu4t3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56313/devtools/browser/a3e53eba-fa12-4abe-96a5-1ed2545ea9f2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664323192361	Marionette	INFO	Stopped listening on port 56326
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664323204168	geckodriver	INFO	Listening on 127.0.0.1:56385
+1664323207182	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56386" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilechovQf"
+1664323207528	Marionette	INFO	Marionette enabled
+1664323207531	Marionette	INFO	Listening on port 56399
+Read port: 56399
+WebDriver BiDi listening on ws://127.0.0.1:56386
+1664323207700	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilechovQf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56386/devtools/browser/2cb2da73-0681-48fc-ae8c-edfb46b51f4f
+1664323226061	Marionette	INFO	Stopped listening on port 56399
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664323228248	geckodriver	INFO	Listening on 127.0.0.1:56445
+1664323231268	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56446" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileXxfvo0"
+1664323231604	Marionette	INFO	Marionette enabled
+1664323231608	Marionette	INFO	Listening on port 56458
+WebDriver BiDi listening on ws://127.0.0.1:56446
+Read port: 56458
+1664323231957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileXxfvo0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56446/devtools/browser/358a42c7-6fc1-472e-b589-77ad7e5310a5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664323683395	Marionette	INFO	Stopped listening on port 56458
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56553" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileOTyE2g"
+1664323359675	Marionette	INFO	Marionette enabled
+1664323359679	Marionette	INFO	Listening on port 56565
+Read port: 56565
+WebDriver BiDi listening on ws://127.0.0.1:56553
+1664323359807	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileOTyE2g\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56553/devtools/browser/e674db1c-c925-40c4-987f-813398556212
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664323684512	Marionette	INFO	Stopped listening on port 56565
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62848" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilesfrwH1"
+1664323643334	Marionette	INFO	Marionette enabled
+1664323643338	Marionette	INFO	Listening on port 62860
+Read port: 62860
+WebDriver BiDi listening on ws://127.0.0.1:62848
+1664323643486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilesfrwH1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62848/devtools/browser/f00cf38a-f2ae-41e2-a8cb-e241505b7630
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664323685434	Marionette	INFO	Stopped listening on port 62860
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664323696619	geckodriver	INFO	Listening on 127.0.0.1:62924
+1664323699654	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62925" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileOGyDYW"
+1664323700051	Marionette	INFO	Marionette enabled
+1664323700057	Marionette	INFO	Listening on port 62938
+Read port: 62938
+WebDriver BiDi listening on ws://127.0.0.1:62925
+1664323700217	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileOGyDYW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62925/devtools/browser/cee293c5-b643-4695-9d6f-9213f505ce5c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664324058776	Marionette	INFO	Stopped listening on port 62938
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63106" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilea3Enkc"
+1664323957434	Marionette	INFO	Marionette enabled
+1664323957439	Marionette	INFO	Listening on port 63119
+WebDriver BiDi listening on ws://127.0.0.1:63106
+Read port: 63119
+1664323957669	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilea3Enkc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63106/devtools/browser/b114f14c-da76-4e4e-8cde-01f2d251a44c
+1664323968360	Marionette	INFO	Stopped listening on port 63119
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "63154" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofile7SmTuN"
+1664323965389	Marionette	INFO	Marionette enabled
+1664323965393	Marionette	INFO	Listening on port 63165
+Read port: 63165
+WebDriver BiDi listening on ws://127.0.0.1:63154
+1664323965553	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofile7SmTuN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63154/devtools/browser/f349ca13-52b2-4f4a-ba1b-24e11fe2a424
+1664323967458	Marionette	INFO	Stopped listening on port 63165
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664323971292	geckodriver	INFO	Listening on 127.0.0.1:63184
+1664323974304	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63185" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileB83jD5"
+1664323974712	Marionette	INFO	Marionette enabled
+1664323974716	Marionette	INFO	Listening on port 63198
+Read port: 63198
+WebDriver BiDi listening on ws://127.0.0.1:63185
+1664323974854	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileB83jD5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63185/devtools/browser/bbe4e231-c1f8-437c-b462-03879eec3fc4
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664324059725	Marionette	INFO	Stopped listening on port 63198
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664324078778	geckodriver	INFO	Listening on 127.0.0.1:53326
+1664324081779	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53327" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilezHo8hv"
+1664324082153	Marionette	INFO	Marionette enabled
+1664324082157	Marionette	INFO	Listening on port 53339
+Read port: 53339
+WebDriver BiDi listening on ws://127.0.0.1:53327
+1664324082283	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilezHo8hv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53327/devtools/browser/f5f08cc4-719d-4fc2-bed3-9fc621d89b0e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664324104421	Marionette	INFO	Stopped listening on port 53339
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664324107840	geckodriver	INFO	Listening on 127.0.0.1:53387
+1664324110881	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53388" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileq1jWaY"
+1664324111262	Marionette	INFO	Marionette enabled
+1664324111267	Marionette	INFO	Listening on port 53401
+Read port: 53401
+WebDriver BiDi listening on ws://127.0.0.1:53388
+1664324111427	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileq1jWaY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53388/devtools/browser/f2ec82ca-aa02-44b8-b868-7532ab89dfa4
+1664324124460	Marionette	INFO	Stopped listening on port 53401
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664324126476	geckodriver	INFO	Listening on 127.0.0.1:53446
+1664324129516	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53447" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileqxkxNZ"
+1664324129879	Marionette	INFO	Marionette enabled
+1664324129883	Marionette	INFO	Listening on port 53460
+Read port: 53460
+WebDriver BiDi listening on ws://127.0.0.1:53447
+1664324130030	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileqxkxNZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53447/devtools/browser/23c255d4-1e0f-4a66-b13e-22c79005447c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664324411118	Marionette	INFO	Stopped listening on port 53460
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664324743808	geckodriver	INFO	Listening on 127.0.0.1:53824
+1664324746847	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53825" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilegvIZ67"
+1664324747197	Marionette	INFO	Marionette enabled
+1664324747201	Marionette	INFO	Listening on port 53837
+Read port: 53837
+WebDriver BiDi listening on ws://127.0.0.1:53825
+1664324747334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilegvIZ67\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53825/devtools/browser/e724b574-b59f-4754-a15f-618dc098a9d1
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664324772088	Marionette	INFO	Stopped listening on port 53837
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664324974783	geckodriver	INFO	Listening on 127.0.0.1:60917
+1664324977812	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60918" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofile0PoHVN"
+1664324978222	Marionette	INFO	Marionette enabled
+1664324978226	Marionette	INFO	Listening on port 60931
+Read port: 60931
+WebDriver BiDi listening on ws://127.0.0.1:60918
+1664324978364	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofile0PoHVN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60918/devtools/browser/d03bd7b3-6c53-4c50-ae69-98a7b966165f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664325174673	Marionette	INFO	Stopped listening on port 60931
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56299" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileloky4a"
+1664325107646	Marionette	INFO	Marionette enabled
+1664325107650	Marionette	INFO	Listening on port 56319
+Read port: 56319
+WebDriver BiDi listening on ws://127.0.0.1:56299
+1664325107787	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileloky4a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56299/devtools/browser/c4c32b03-e4aa-4b97-aea9-f88cdbdf111d
+1664325125401	Marionette	INFO	Stopped listening on port 56319
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664325177191	geckodriver	INFO	Listening on 127.0.0.1:52140
+1664325180221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52141" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileuuwS4h"
+1664325180633	Marionette	INFO	Marionette enabled
+1664325180636	Marionette	INFO	Listening on port 52159
+Read port: 52159
+WebDriver BiDi listening on ws://127.0.0.1:52141
+1664325180765	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileuuwS4h\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52141/devtools/browser/8efdc12e-eb3d-4216-b4ac-64ac9ede9bbb
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664325778550	Marionette	INFO	Stopped listening on port 52159
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60152" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilejhlzSj"
+1664325301738	Marionette	INFO	Marionette enabled
+1664325301741	Marionette	INFO	Listening on port 60164
+Read port: 60164
+WebDriver BiDi listening on ws://127.0.0.1:60152
+1664325301876	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilejhlzSj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60152/devtools/browser/41da5489-57a1-48a1-9f53-ebdf7d5e8174
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664325779607	Marionette	INFO	Stopped listening on port 60164
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "52615" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofile6JNUyq"
+1664325436209	Marionette	INFO	Marionette enabled
+1664325436215	Marionette	INFO	Listening on port 52628
+Read port: 52628
+WebDriver BiDi listening on ws://127.0.0.1:52615
+1664325436345	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofile6JNUyq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52615/devtools/browser/9cda9ded-b0ae-411e-8ea8-dfa0d7fa41f8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664325780983	Marionette	INFO	Stopped listening on port 52628
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "55460" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilejudZzo"
+1664325527241	Marionette	INFO	Marionette enabled
+1664325527245	Marionette	INFO	Listening on port 55473
+Read port: 55473
+WebDriver BiDi listening on ws://127.0.0.1:55460
+1664325527376	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilejudZzo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55460/devtools/browser/2dfd160b-2ebc-4b54-beec-ef4757173595
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664325547020	Marionette	INFO	Stopped listening on port 55473
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664325549308	geckodriver	INFO	Listening on 127.0.0.1:55974
+1664325552329	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55975" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileSCBzYy"
+1664325552768	Marionette	INFO	Marionette enabled
+1664325552772	Marionette	INFO	Listening on port 55987
+Read port: 55987
+WebDriver BiDi listening on ws://127.0.0.1:55975
+1664325552908	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileSCBzYy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55975/devtools/browser/2e444695-abe8-493c-8a43-7d749db63949
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664325572059	Marionette	INFO	Stopped listening on port 55987
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664325574753	geckodriver	INFO	Listening on 127.0.0.1:56033
+1664325577800	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56034" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilez7QzyI"
+1664325578146	Marionette	INFO	Marionette enabled
+1664325578150	Marionette	INFO	Listening on port 56046
+WebDriver BiDi listening on ws://127.0.0.1:56034
+Read port: 56046
+1664325578451	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilez7QzyI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56034/devtools/browser/04a85ae9-b843-4132-96c1-108d3d439830
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664325782363	Marionette	INFO	Stopped listening on port 56046
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56108" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileUDx0T3"
+1664325634634	Marionette	INFO	Marionette enabled
+1664325634638	Marionette	INFO	Listening on port 56121
+Read port: 56121
+WebDriver BiDi listening on ws://127.0.0.1:56108
+1664325634772	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileUDx0T3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56108/devtools/browser/364ce57a-b7e9-44ad-bdfb-02f69e4d22e7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664325783342	Marionette	INFO	Stopped listening on port 56121
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664326176972	geckodriver	INFO	Listening on 127.0.0.1:53130
+1664326180014	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53131" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilegLJ89l"
+1664326180368	Marionette	INFO	Marionette enabled
+1664326180372	Marionette	INFO	Listening on port 53143
+Read port: 53143
+WebDriver BiDi listening on ws://127.0.0.1:53131
+1664326180498	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilegLJ89l\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53131/devtools/browser/ada560bb-9de7-4101-b755-6a419dd3b667
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664327005913	Marionette	INFO	Stopped listening on port 53143
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "58244" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilejWVOGY"
+1664326271608	Marionette	INFO	Marionette enabled
+1664326271612	Marionette	INFO	Listening on port 58256
+WebDriver BiDi listening on ws://127.0.0.1:58244
+Read port: 58256
+1664326271977	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilejWVOGY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58244/devtools/browser/431d6553-06d0-4442-b972-4332db8d27d6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664326289924	Marionette	INFO	Stopped listening on port 58256
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664326294204	geckodriver	INFO	Listening on 127.0.0.1:64591
+1664326297212	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64592" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileTU0IUT"
+1664326297548	Marionette	INFO	Marionette enabled
+1664326297553	Marionette	INFO	Listening on port 64604
+WebDriver BiDi listening on ws://127.0.0.1:64592
+Read port: 64604
+1664326297896	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileTU0IUT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64592/devtools/browser/35be6e2e-8af9-42ed-82cf-0c6e706c8130
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664326320959	Marionette	INFO	Stopped listening on port 64604
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664326323508	geckodriver	INFO	Listening on 127.0.0.1:64651
+1664326326539	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64652" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilen9GqZz"
+1664326326866	Marionette	INFO	Marionette enabled
+1664326326870	Marionette	INFO	Listening on port 64664
+WebDriver BiDi listening on ws://127.0.0.1:64652
+Read port: 64664
+1664326327093	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilen9GqZz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64652/devtools/browser/19ed3859-ba88-46cf-bc6c-4b78a457a98c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664326343942	Marionette	INFO	Stopped listening on port 64664
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664326353680	geckodriver	INFO	Listening on 127.0.0.1:51526
+1664326356704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51527" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilevypZux"
+1664326357045	Marionette	INFO	Marionette enabled
+1664326357049	Marionette	INFO	Listening on port 51539
+WebDriver BiDi listening on ws://127.0.0.1:51527
+Read port: 51539
+1664326357277	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilevypZux\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51527/devtools/browser/856145b8-9160-4ba6-8c84-3db7663a12f2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664327149429	Marionette	INFO	Stopped listening on port 51539
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664355190356	geckodriver	INFO	Listening on 127.0.0.1:65156
+1664355193441	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65157" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofile92hWL1"
+1664355194062	Marionette	INFO	Marionette enabled
+1664355194072	Marionette	INFO	Listening on port 65169
+Read port: 65169
+WebDriver BiDi listening on ws://127.0.0.1:65157
+1664355194274	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofile92hWL1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65157/devtools/browser/6463390a-c51f-4cfe-938f-b6d0bf61cb4c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664359555663	Marionette	INFO	Stopped listening on port 65169
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "65291" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileeHLgue"
+1664355393274	Marionette	INFO	Marionette enabled
+1664355393278	Marionette	INFO	Listening on port 65301
+Read port: 65301
+WebDriver BiDi listening on ws://127.0.0.1:65291
+1664355393436	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileeHLgue\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65291/devtools/browser/55d56e60-78cb-44cb-95eb-f5fc4e426b86
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664359556590	Marionette	INFO	Stopped listening on port 65301
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "49372" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofile5fIrG0"
+1664355851784	Marionette	INFO	Marionette enabled
+1664355851789	Marionette	INFO	Listening on port 49383
+WebDriver BiDi listening on ws://127.0.0.1:49372
+Read port: 49383
+1664355851954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofile5fIrG0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49372/devtools/browser/e2c766b3-3258-46cc-86ed-124d11d07fae
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664359557488	Marionette	INFO	Stopped listening on port 49383
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "54548" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilenEDYbl"
+1664359506637	Marionette	INFO	Marionette enabled
+1664359506642	Marionette	INFO	Listening on port 54559
+Read port: 54559
+WebDriver BiDi listening on ws://127.0.0.1:54548
+1664359506831	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilenEDYbl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54548/devtools/browser/322730cc-aa8c-40c0-b592-74b3639b5c9f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664359558599	Marionette	INFO	Stopped listening on port 54559
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664359571314	geckodriver	INFO	Listening on 127.0.0.1:54629
+1664359574383	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54630" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileVeHA1H"
+1664359574776	Marionette	INFO	Marionette enabled
+1664359574780	Marionette	INFO	Listening on port 54641
+Read port: 54641
+WebDriver BiDi listening on ws://127.0.0.1:54630
+1664359574934	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileVeHA1H\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54630/devtools/browser/0169380f-3ffc-4089-beba-4457c5edef68
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664359742800	Marionette	INFO	Stopped listening on port 54641
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664359746536	geckodriver	INFO	Listening on 127.0.0.1:54759
+1664359749572	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54760" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileceUmiT"
+1664359749955	Marionette	INFO	Marionette enabled
+1664359749959	Marionette	INFO	Listening on port 54770
+Read port: 54770
+WebDriver BiDi listening on ws://127.0.0.1:54760
+1664359750118	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileceUmiT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54760/devtools/browser/744ad7d0-7268-4463-91ab-865320287900
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664359864721	Marionette	INFO	Stopped listening on port 54770
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664359867136	geckodriver	INFO	Listening on 127.0.0.1:54866
+1664359870157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54867" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilePDYmO1"
+1664359870558	Marionette	INFO	Marionette enabled
+1664359870564	Marionette	INFO	Listening on port 54877
+Read port: 54877
+WebDriver BiDi listening on ws://127.0.0.1:54867
+1664359870726	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilePDYmO1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54867/devtools/browser/72fb7de0-ba6a-47a9-878a-67f7b4c8002f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664360042037	Marionette	INFO	Stopped listening on port 54877
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 7056, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+l\\Temp\\rust_mozprofile4ny4x7"
+1664359901278	Marionette	INFO	Marionette enabled
+1664359901283	Marionette	INFO	Listening on port 54938
+Read port: 54938
+WebDriver BiDi listening on ws://127.0.0.1:54924
+1664359901449	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofile4ny4x7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54924/devtools/browser/21be9ce7-73ad-4169-8c3a-35d99fd3dd19
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664360043480	Marionette	INFO	Stopped listening on port 54938
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664360046869	geckodriver	INFO	Listening on 127.0.0.1:55045
+1664360049888	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55046" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilexpIbo2"
+1664360050268	Marionette	INFO	Marionette enabled
+1664360050272	Marionette	INFO	Listening on port 55057
+Read port: 55057
+WebDriver BiDi listening on ws://127.0.0.1:55046
+1664360050432	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilexpIbo2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55046/devtools/browser/7c75df32-28d6-4d6d-86d8-66f087377400
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\TIMCI\AppData\Local\Temp\rust_mozprofilexpIbo2\bookmarkbackups\bookmarks-2022-09-28.jsonlz4) because it does not exist
+1664362533018	Marionette	INFO	Stopped listening on port 55057
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664362721496	geckodriver	INFO	Listening on 127.0.0.1:51254
+1664362724518	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51255" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofile6SwQy5"
+1664362725129	Marionette	INFO	Marionette enabled
+1664362725134	Marionette	INFO	Listening on port 51269
+Read port: 51269
+WebDriver BiDi listening on ws://127.0.0.1:51255
+1664362725325	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofile6SwQy5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51255/devtools/browser/2e4f776a-b3a5-4ae8-bc0e-9dc9db1e005f
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1664362752746	Marionette	INFO	Stopped listening on port 51269
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664362756982	geckodriver	INFO	Listening on 127.0.0.1:51356
+1664362760003	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51357" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilevF5MAX"
+1664362760508	Marionette	INFO	Marionette enabled
+1664362760514	Marionette	INFO	Listening on port 51386
+Read port: 51386
+WebDriver BiDi listening on ws://127.0.0.1:51357
+1664362760688	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilevF5MAX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51357/devtools/browser/46da375b-3ef2-4ebb-abb1-87458ca7622a
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1664362820574	Marionette	INFO	Stopped listening on port 51386
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_untrustedmodules_ping
+1664362825262	geckodriver	INFO	Listening on 127.0.0.1:51554
+1664362828305	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51555" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilekb7POy"
+1664362828786	Marionette	INFO	Marionette enabled
+1664362828791	Marionette	INFO	Listening on port 51566
+Read port: 51566
+WebDriver BiDi listening on ws://127.0.0.1:51555
+1664362828990	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilekb7POy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51555/devtools/browser/97c17b0c-d407-4cba-87ee-c0d202c92c2a
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+1664362835527	Marionette	INFO	Stopped listening on port 51566
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664363033935	geckodriver	INFO	Listening on 127.0.0.1:51748
+1664363036992	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51749" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofile7SMbDi"
+1664363037400	Marionette	INFO	Marionette enabled
+1664363037405	Marionette	INFO	Listening on port 51760
+Read port: 51760
+WebDriver BiDi listening on ws://127.0.0.1:51749
+1664363037567	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofile7SMbDi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51749/devtools/browser/3662b406-acf4-49ff-979d-ace95f192b54
+1664363048821	Marionette	INFO	Stopped listening on port 51760
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664365711506	geckodriver	INFO	Listening on 127.0.0.1:64971
+1664365714573	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64972" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileilenBK"
+1664365715136	Marionette	INFO	Marionette enabled
+1664365715142	Marionette	INFO	Listening on port 64981
+Read port: 64981
+WebDriver BiDi listening on ws://127.0.0.1:64972
+1664365715370	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileilenBK\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64972/devtools/browser/2d8ae7fa-c701-46db-8855-8c4e2a09b50c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664365794541	Marionette	INFO	Stopped listening on port 64981
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664365797240	geckodriver	INFO	Listening on 127.0.0.1:65025
+1664365800312	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65026" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilennQy4c"
+1664365800730	Marionette	INFO	Marionette enabled
+1664365800737	Marionette	INFO	Listening on port 65035
+Read port: 65035
+WebDriver BiDi listening on ws://127.0.0.1:65026
+1664365800892	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilennQy4c\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65026/devtools/browser/bc412dd9-b0f4-4d9c-973d-1e77ec92e3d5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664365829412	Marionette	INFO	Stopped listening on port 65035
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664365832782	geckodriver	INFO	Listening on 127.0.0.1:65075
+1664365835790	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65076" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilegZJuGy"
+1664365836203	Marionette	INFO	Marionette enabled
+1664365836207	Marionette	INFO	Listening on port 65087
+Read port: 65087
+WebDriver BiDi listening on ws://127.0.0.1:65076
+1664365836360	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilegZJuGy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65076/devtools/browser/d8577326-bb4e-4605-9ade-78665f4217a5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664365862521	Marionette	INFO	Stopped listening on port 65087
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664365864939	geckodriver	INFO	Listening on 127.0.0.1:65123
+1664365867981	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65124" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofile4lfIem"
+1664365868383	Marionette	INFO	Marionette enabled
+1664365868390	Marionette	INFO	Listening on port 65133
+Read port: 65133
+WebDriver BiDi listening on ws://127.0.0.1:65124
+1664365868549	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofile4lfIem\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65124/devtools/browser/e348c638-9810-41dc-b57a-45f66047a296
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664365884633	Marionette	INFO	Stopped listening on port 65133
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664365888962	geckodriver	INFO	Listening on 127.0.0.1:65171
+1664365892002	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65172" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileMcipoe"
+1664365892428	Marionette	INFO	Marionette enabled
+1664365892432	Marionette	INFO	Listening on port 65181
+Read port: 65181
+WebDriver BiDi listening on ws://127.0.0.1:65172
+1664365892591	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileMcipoe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65172/devtools/browser/a696226f-bb80-4ca8-b6e5-ffe581ce987b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664365931160	Marionette	INFO	Stopped listening on port 65181
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "65215" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilegFedJ2"
+1664365916222	Marionette	INFO	Marionette enabled
+1664365916227	Marionette	INFO	Listening on port 65224
+Read port: 65224
+WebDriver BiDi listening on ws://127.0.0.1:65215
+1664365916444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilegFedJ2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65215/devtools/browser/ab3a771a-1986-43a4-85b4-e89b07b66ae8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664365932505	Marionette	INFO	Stopped listening on port 65224
+[Parent 21472, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664365934957	geckodriver	INFO	Listening on 127.0.0.1:65261
+1664365937999	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65262" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileOxqUC0"
+1664365938448	Marionette	INFO	Marionette enabled
+1664365938453	Marionette	INFO	Listening on port 65271
+Read port: 65271
+WebDriver BiDi listening on ws://127.0.0.1:65262
+1664365938602	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileOxqUC0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65262/devtools/browser/047f9fcd-f69b-41ee-97d7-cb0acda85f5e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664365949579	Marionette	INFO	Stopped listening on port 65271
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664370938258	geckodriver	INFO	Listening on 127.0.0.1:60944
+1664370941267	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60945" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilepLPDva"
+1664370941679	Marionette	INFO	Marionette enabled
+1664370941683	Marionette	INFO	Listening on port 60955
+Read port: 60955
+WebDriver BiDi listening on ws://127.0.0.1:60945
+1664370941849	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofilepLPDva\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60945/devtools/browser/1f295b01-bfe5-44ba-9ab4-e724101452fb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664371218613	Marionette	INFO	Stopped listening on port 60955
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 15692, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+\\Temp\\rust_mozprofileGmoDxC"
+1664371072265	Marionette	INFO	Marionette enabled
+1664371072269	Marionette	INFO	Listening on port 50768
+Read port: 50768
+WebDriver BiDi listening on ws://127.0.0.1:50754
+1664371072414	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileGmoDxC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50754/devtools/browser/72b2be7d-1ddb-4dde-937d-383dd5282e60
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 768))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 420))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664371220955	Marionette	INFO	Stopped listening on port 50768
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "50843" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileXiCC4a"
+1664371143342	Marionette	INFO	Marionette enabled
+1664371143348	Marionette	INFO	Listening on port 50852
+Read port: 50852
+WebDriver BiDi listening on ws://127.0.0.1:50843
+1664371143538	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\TIMCI\\AppData\\Local\\Temp\\rust_mozprofileXiCC4a\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50843/devtools/browser/112288c1-212e-4328-a68a-a5668a784b0e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://esearch.delhigovt.nic.in."
+1664371221918	Marionette	INFO	Stopped listening on port 50852
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
