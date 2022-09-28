@@ -56,6 +56,6 @@ while cur_page <= tot_pages:
         sleep(5)
 
 df = df.dropna(how='any',axis=0) 
-df.to_excel("sample.xlsx", index=False)
+df.to_csv("sample.csv", index=False)
 print(df)
 
